@@ -1,0 +1,1 @@
+Activate venv - source collect_prices/bin/activate
